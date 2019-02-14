@@ -16,4 +16,5 @@ public class Spring5webappApplication {
 *This Program uses JPA Mapping using hibernate to create a data schema on localhost 8080/h2-console
 * JDBC Connect on localhost:8080/h2-console/ = jdbc:h2:mem:testdb
 *Adding Git JPA example and adding example version 4/test for Git(ignore) + another test(ignore)
+* This program now uses Java Beans to bootstrap a CRUD into the hibernate DB - H2
 */
